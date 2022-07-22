@@ -5,7 +5,7 @@ Learn UI UX Designing
 https://www.coursera.org/learn/user-experience-design
 
 
-https://www.futurelearn.com/courses/d... 
+https://www.futurelearn.com/courses/digital-skills-user-experience
 
 
 https://www.figma.com/
